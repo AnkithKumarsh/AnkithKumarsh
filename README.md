@@ -1,7 +1,7 @@
 ## Hi there, I'm Ankith Kumar S H👋
 
 # 💫 About Me:
-🌱 I’m currently learning DevOps and Data Science<br>👨‍💻 I’m currently Studying at National Institute of Technology, Surathkal Karnataka<br>📑 Check out my resume here - My Resume<br>💻 All of my projects are available on GitHub<br>💬 Ask me about Programming, Web Development, Android Development And Machine Learning.<br>📫 Reach out to me at 2003ankithkumar@gmail.com<br>
+🌱 I’m currently learning DevOps and Data Science<br>👨‍💻 I’m currently Studying at National Institute of Technology, Surathkal Karnataka<br>📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/14UZIpfvioZYityjwTQxti6mciBiCz_H4/view?usp=sharing)<br>💻 All of my projects are available on GitHub<br>💬 Ask me about Programming, Web Development, Android Development And Machine Learning.<br>📫 Reach out to me at 2003ankithkumar@gmail.com<br>
 
 
 ## 🌐 Socials: 
